@@ -9,8 +9,8 @@ static const char *fonts[]          = { "monospace:size=12", "fontawesome:size=1
 static const char dmenufont[]       = "monospace:size=12";
 static const char col_gray1[]       = "#282a36";	/* Background color */
 static const char col_gray2[]       = "#44475a";	/* Inactive windows color */
-static const char col_gray3[]       = "#f8f8f2";	/* Font color */
-static const char col_gray4[]       = "#52556d";	/* Current tag and cuurent windows font color */
+static const char col_gray3[]       = "#9496a3";	/* Font color */
+static const char col_gray4[]       = "#f8f8f2";	/* Current tag and cuurent windows font color */
 static const char col_cyan[]        = "#bd93f9";	/* Top bar second color and active windows border */
 static const char *colors[][3]      = {
 	/*               fg         bg         border   */
